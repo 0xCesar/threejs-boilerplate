@@ -9,9 +9,11 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^4.4.5"
+    "vite": "^4.4.5",
+    "vite-plugin-glsl": "^1.1.2"
   },
   "dependencies": {
+    "glsl-transpiler": "^1.8.1",
     "three": "^0.157.0"
   }
 }
